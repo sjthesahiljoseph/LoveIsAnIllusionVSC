@@ -1,0 +1,21 @@
+{
+  "name": "loveisanillusionvsc",
+  "displayName": "LoveIsAnIllusionVSC",
+  "description": "SJ the Sahil Joseph's Love Is An Illusion",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LoveIsAnIllusion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LoveIsAnIllusion-color-theme.json"
+      }
+    ]
+  }
+}
