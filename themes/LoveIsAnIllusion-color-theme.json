@@ -1,9 +1,9 @@
 {
 	"name": "LoveIsAnIllusion",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#0099ff",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#33ff00"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ff0000"
 			}
 		},
 		{
