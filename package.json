@@ -19,5 +19,9 @@
       }
     ]
   },
-  "repository": {"url": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"}
+  "repository": {"url": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"},
+  "author": {"email": "sjthesahiljoseph@gmail.com", "name": "SJ the Sahil Joseph", "url": "https://sjthesahiljoseph.com"},
+  "icon": "/assets/Logo.jpg",
+  "pricing": "Free",
+  "homepage": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"
 }
