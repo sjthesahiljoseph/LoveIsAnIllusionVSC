@@ -3,6 +3,7 @@
   "displayName": "LoveIsAnIllusionVSC",
   "description": "SJ the Sahil Joseph's Love Is An Illusion",
   "version": "0.0.1",
+  "publisher": "SJtheSahilJoseph",
   "engines": {
     "vscode": "^1.108.1"
   },
