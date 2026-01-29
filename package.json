@@ -2,7 +2,7 @@
   "name": "loveisanillusionvsc",
   "displayName": "LoveIsAnIllusionVSC",
   "description": "SJ the Sahil Joseph's Love Is An Illusion",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "SJtheSahilJoseph",
   "engines": {
     "vscode": "^1.108.1"
@@ -19,8 +19,14 @@
       }
     ]
   },
-  "repository": {"url": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"},
-  "author": {"email": "sjthesahiljoseph@gmail.com", "name": "SJ the Sahil Joseph", "url": "https://sjthesahiljoseph.com"},
+  "repository": {
+    "url": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"
+  },
+  "author": {
+    "email": "sjthesahiljoseph@gmail.com",
+    "name": "SJ the Sahil Joseph",
+    "url": "https://sjthesahiljoseph.com"
+  },
   "icon": "/assets/Logo.jpg",
   "pricing": "Free",
   "homepage": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"
