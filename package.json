@@ -17,5 +17,6 @@
         "path": "./themes/LoveIsAnIllusion-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {"url": "https://github.com/sjthesahiljoseph/LoveIsAnIllusionVSC"}
 }
